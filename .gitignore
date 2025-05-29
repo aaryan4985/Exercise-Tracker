@@ -5,7 +5,9 @@
 /.pnp
 .pnp.js
 mern-exercise-tracker\backend\node_modules
+mern-exercise-tracker\backend\.env
 
+.env
 # testing
 /coverage
 
